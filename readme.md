@@ -10,6 +10,6 @@ Welcome to my GitHub profile! I enjoy exploring new technologies and turning ide
 
 ---
 ## 📫 How to Reach Me
-- [LinkedIn](www.linkedin.com/in/marcos-pardo-torres-52776b2b5)  
+- [LinkedIn](https://www.linkedin.com/in/marcos-pardo-torres-52776b2b5/)  
 ---
 
