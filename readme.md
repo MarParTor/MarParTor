@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I enjoy exploring new technologies and turning ide
 
 ## 🌱 Currently Learning
 - Advanced machine learning algorithms
-- Full-stack development with Spring Boot & React
 - Robotics and embedded systems
 
 ---
