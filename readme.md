@@ -4,12 +4,4 @@ Welcome to my GitHub profile! I enjoy exploring new technologies and turning ide
 
 ---
 
-## 🌱 Currently Learning
-- Advanced machine learning algorithms
-- Robotics and embedded systems
-
----
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/marcos-pardo-torres-52776b2b5/)  
----
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MarParTor&theme=tokyonight&hide_border=true&short_numbers=true&mode=weekly)](https://git.io/streak-stats)
