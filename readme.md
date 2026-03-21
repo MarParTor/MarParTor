@@ -7,9 +7,12 @@ Currently studying telecommunications computer engineering
 <br><br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarParTor.profile&type=flat&color=1a1b26&textColor=ffffff)
 ![Followers Badge](https://img.shields.io/github/followers/MarParTor?style=flat&logo=github&logoColor=ffffff&color=1a1b26&labelColor=7aa2f7)
+<!--
 <br><br><br><br><br><br>
 
 ----
 <p align="center">
 <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=MarParTor&theme=tokyonight&hide_border=true&border_radius=12&short_numbers=true&mode=weekly"/>
-</p>
+</p> 
+
+-->
