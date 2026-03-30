@@ -3,7 +3,7 @@
 <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarParTor&layout=compact&theme=tokyonight&hide_border=true"/>
 Welcome to my GitHub profile!
 I'm Marcos, I enjoy programming solutions for everyday problems.
-
+<br><br>
 Currently studying telecommunications computer engineering at UV
 <br><br>
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=MarParTor.profile&type=flat&color=1a1b26&textColor=ffffff)
